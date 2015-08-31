@@ -2,7 +2,6 @@
 
 A component wrapper around [Pikaday](https://github.com/dbushell/Pikaday).
 
-**[View Example](http://www.thomasboyt.com/react-pikaday/)**
 
 ## Importing
 
